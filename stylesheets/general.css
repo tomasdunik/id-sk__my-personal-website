@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.idsk-warning-text {
+  margin-bottom: 0;
+}
+
+.idsk-footer-extended-up-button-a {
+  float: none;
+}
+
+.download-button {
+  color: #fff;
+  text-decoration: none;
+}
+
+.idsk-header-web__main-action .idsk-button {
+  margin: 0;
+}
+
+.main {
+  margin-top: 30px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.govuk-width-container-td {
+  display: flex;
+  margin-bottom: 2px;
+  justify-content: flex-end;
+}
+
+.idsk-footer-extended-up-button-a {
+  float: none;
+}
+
+.idsk-hr-separator,
+idsk-hr-separator-until-tablet {
+  background: #003078;
+}
+
+.govuk-heading-xl,
+.govuk-heading-l {
+  color: #003078;
+}
+
+.idsk-footer-extended-frame-td {
+  margin-top: 15px;
+}
+
+@media (min-width: 769px) {
+  .download-btn {
+    display: none;
+    color: white;
+  }
+  .idsk-button {
+    margin-bottom: 0;
+  }
+}
+@media (max-width: 769px) {
+  .idsk-button {
+    margin-bottom: 0;
+  }
+}
+.projekty-margin-top {
+  margin-top: 2rem;
+}
+
+@media (min-width: 514px) {
+  .govuk-heading-m-td {
+    min-width: 20.8rem;
+  }
+}
+.idsk-intro-block .govuk-heading-xl-td {
+  margin-bottom: 30px;
+}
+
+.idsk-intro-block .govuk-body-td {
+  margin-bottom: 30px;
+}/*# sourceMappingURL=general.css.map */
